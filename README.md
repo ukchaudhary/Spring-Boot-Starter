@@ -2,6 +2,17 @@
 This is for learning Spring Boot based on Spring Boot 101 tutorail instructed by Romanian Coder.
 https://github.com/dangeabunea/RomanianCoderExamples/tree/master/BookingDemo
 
+Spring Boot with Version 1.4.7.RELEASE
+URL: http://start.spring.io/
+
+
+Version 1.0 - Spring Boot - Getting Started
+Source Path: v1/hotelbooking
+URL: http://start.spring.io/
+
+Version 2.0 - REST Controllers		
+Source Path: v2/hotelbooking
+URL: http://hsqldb.org/
 
 Version 3.0 - Database:  hsqldb					
 Source Path: v3/hotelbooking
