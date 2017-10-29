@@ -30,7 +30,7 @@ Version 6.0 - Documenting REST services with JSONDoc
 Source Path: v6/hotelbooking
 URL: http://jsondoc.org/
 <br/>
-Follow ReadMe.txt
+ReadMe.txt for instruction
 <br/>
 URL: http://localhost:8080/jsondoc-ui.html
 <br/>
