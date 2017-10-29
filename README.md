@@ -4,7 +4,8 @@ https://github.com/dangeabunea/RomanianCoderExamples/tree/master/BookingDemo
 
 
 Version 6.0 - Documenting REST services with JSONDoc
-v5/hotelbooking
+v6/hotelbooking
 
 URL: http://localhost:8080/jsondoc-ui.html
+<br/>
 JSONDoc = http://localhost:8080/jsondoc
