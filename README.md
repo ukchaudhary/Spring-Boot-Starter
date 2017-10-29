@@ -3,18 +3,24 @@ This is for learning Spring Boot based on Spring Boot 101 tutorail instructed by
 https://github.com/dangeabunea/RomanianCoderExamples/tree/master/BookingDemo
 
 
-Version 3.0 - Database:  hsqldb					URL: http://hsqldb.org/
-v3/hotelbooking
+Version 3.0 - Database:  hsqldb					
+Source Path: v3/hotelbooking
+URL: http://hsqldb.org/
 
-Version 4.0 - Database:  h2						URL: http://www.h2database.com
-v4/hotelbooking
+Version 4.0 - Database:  h2						
+Source Path: v4/hotelbooking
+URL: http://www.h2database.com
 
-Version 5.0 - Template Engine: ThymeLeaf		URL: http://www.thymeleaf.org/
-v5/hotelbooking
+Version 5.0 - Template Engine: ThymeLeaf		
+Source Path: v5/hotelbooking
+URL: http://www.thymeleaf.org/
 
-Version 6.0 - Documenting REST services with JSONDoc	URL: http://jsondoc.org/
-v6/hotelbooking
-
+Version 6.0 - Documenting REST services with JSONDoc	
+Source Path: v6/hotelbooking
+URL: http://jsondoc.org/
+<br/>
+Follow ReadMe.txt
+<br/>
 URL: http://localhost:8080/jsondoc-ui.html
 <br/>
 JSONDoc = http://localhost:8080/jsondoc
