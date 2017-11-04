@@ -35,3 +35,6 @@ ReadMe.txt for instruction
 URL: http://localhost:8080/jsondoc-ui.html
 <br/>
 JSONDoc = http://localhost:8080/jsondoc
+
+Version 7.0 - Basic Spring Security and configurations 
+Path: v7/hotelbooking
